@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tequila-makes-her-clothes-fall-off/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tequila Makes Her Clothes Fall Off](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tequila-makes-her-clothes-fall-off/) |
+| **Get License** | [License this song: Tequila Makes Her Clothes Fall Off](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tequila-makes-her-clothes-fall-off/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `26402d85cf10ac86ad9a275c2f98350fe334743903d666743ed0b2fbbdd05c4f` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
