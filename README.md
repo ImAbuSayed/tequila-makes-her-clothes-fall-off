@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> That golden liquid shining, moving closer to your lips
+> I'm tracking every motion, resting hands upon your hips
+> The rhythm of the bass drum is beating in my chest
+> You pour another shot, and we forget about the rest
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
